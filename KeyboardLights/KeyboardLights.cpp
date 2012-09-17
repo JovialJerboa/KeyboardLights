@@ -69,7 +69,6 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 }
 
 
-
 //
 //  FUNCTION: MyRegisterClass()
 //
